@@ -1,7 +1,2 @@
-Hi this is my new addition to the content of this readme file
-
-
-hello this is my test
-
-# my-test-repository
+Remove the first three lines of this file
 this is a test repository
