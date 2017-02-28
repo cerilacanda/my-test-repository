@@ -97,74 +97,73 @@
  + - Nothing happens
  + - Display of a greeting.
  + - An error message
- +/// type=MS, answer=[3]
- +1. On which line does the syntax error occur?
- + - 0
- + - 1
- + - 2
- + - 3
- + - 4
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldCorrectHelloWorldphp]
- +```php
- +<?php
- +    echoo Hello, world!
- +?>
- +```
- +1. Correct the code so that it successfully executes and outputs Hello, world!
- +/// type=MS, answer=[1,2,3,5]
- +1. Which of the following is a cause of encountering an error in programming?
- + - No semi-colon the the end of every statement.
- + - The double quotation `" "` does not come in pairs
- + - There is no string literal after `echo` function.
- + - Order of statement is function, string literal, semi-colon.
- + - The statement does NOT come in between `<?php` and `?>`
- +/// type=MC, answer=[4] 
- +1. Evaluate each of these statements in the code validator. Identify which of the following statements 
- +   correctly displays `Hello, world!`.
- + - echo "Hello, world!;
- + - echo "Hello, world!"
- + - echo  Hello, world!";
- + - echo "Hello, world!";
- + - echo Hello, world;
- + - "Hello, World!";
- + - Hello, World!
- +
- +#Part 3. Programming
- +Instruction: Write a code that successfully executes and outputs the following strings.
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputHelloPHP.php]
- +```php
- +<?php
- +    //Write code here.
- +?>
- +```
- +1. `Hello PHP`
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputEverythingAllRight.php]
- +```php
- +<?php
- +    //Write code here.
- +?>
- +```
- +1. `Everything alright?`
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputLikeToHearIt.php]
- +```php
- +<?php
- +    //Write code here.
- +?>
- +```
- +1. `Like to hear that.`
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputLoveToProgram.php]
- +```php
- +<?php
- +    //Write code here.
- +?>
- +```
- +1. `Love to program.`
- +/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputObviouslyItsEasy.php]
- +```php
- +<?php
- +    //Write code here.
- +?>
- +```
- +1. `Obviously, it's very easy.`
- +
- +
+/// type=MS, answer=[3]
+1. On which line does the syntax error occur?
+- 0
+- 1
+- 2
+- 3
+- 4
+/// type=CR, answer=[tests/HelloWorld/HelloWorldCorrectHelloWorldphp]
+```php
+<?php
+    echoo Hello, world!
+?>
+```
+1. Correct the code so that it successfully executes and outputs Hello, world!
+/// type=MS, answer=[1,2,3,5]
+1. Which of the following is a cause of encountering an error in programming?
+- No semi-colon the the end of every statement.
+- The double quotation `" "` does not come in pairs
+- There is no string literal after `echo` function.
+- Order of statement is function, string literal, semi-colon.
+- The statement does NOT come in between `<?php` and `?>`
+/// type=MC, answer=[4] 
+1. Evaluate each of these statements in the code validator. Identify which of the following statements 
+   correctly displays `Hello, world!`.
+- echo "Hello, world!;
+- echo "Hello, world!"
+- echo  Hello, world!";
+- echo "Hello, world!";
+- echo Hello, world;
+- "Hello, World!";
+- Hello, World!
+
+#Part 3. Programming
+Instruction: Write a code that successfully executes and outputs the following strings.
+/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputHelloPHP.php]
+```php
+<?php
+    //Write code here.
+?>
+```
+1. `Hello PHP`
+/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputEverythingAllRight.php]
+```php
+<?php
+    //Write code here.
+?>
+```
+1. `Everything alright?`
+/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputLikeToHearIt.php]
+```php
+<?php
+    //Write code here.
+?>
+```
+1. `Like to hear that.`
+/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputLoveToProgram.php]
+```php
+<?php
+    //Write code here.
+?>
+```
+1. `Love to program.`
+/// type=CR, answer=[tests/HelloWorld/HelloWorldOutputObviouslyItsEasy.php]
+```php
+<?php
+    //Write code here.
+?>
+```
+1. `Obviously, it's very easy.`
+
