@@ -25,7 +25,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MC, answer=[4] 
 
- 1. `Line 2` of the code above is a
+1. `Line 2` of the code above is a
  - Command
  - Variable
  - Expression
@@ -34,7 +34,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MS, answer=[1,3,4,5] 
 
- 1. Which of the following is TRUE about a statement in PHP?
+1. Which of the following is TRUE about a statement in PHP?
  - A statement is a command given to the computer.
  - A declarative sentence which is either `true` or `false`.
  - It instructs the computer to take a specific action.
@@ -43,7 +43,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MS, answer=[3,5]
 
- 1. Which of the following is TRUE when using an `echo`? 
+1. Which of the following is TRUE when using an `echo`? 
  - It resets the value of a string.
  - Marks the beginning of the program.
  - It displays a text on the screen.
@@ -52,7 +52,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MC, answer=[2]
 
- 1. In the program above, "Hello, world!" is a
+1. In the program above, "Hello, world!" is a
  - Function
  - String literal
  - Error
@@ -61,7 +61,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MS, answer=[2,3,4]
 
- 1. Which of the following is TRUE about string literal?
+1. Which of the following is TRUE about string literal?
  - It is a sequence of whole numbers. 
  - It is the notation for representing a string value.
  - It is composed of a letter of the alphabet.
@@ -70,7 +70,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MC, answer=[4] 
 
- 1. What is the function of semi-colon `;` in the statement above?
+1. What is the function of semi-colon `;` in the statement above?
  - Identifies a string.
  - Creates a new line.
  - Starts a new process.
@@ -79,7 +79,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MC, answer=[3]
 
- 1. Click Run to execute the program. What is the output?
+1. Click Run to execute the program. What is the output?
  - Some kind of error.
  - There is no output.
  - `Hello, world!`
@@ -88,7 +88,7 @@ Reference the code below to answer question numbers 1 - 10
 
  /// type=MS, answer=[1,3,4]
 
- 1. Choose which of the statements below correctly describe the code above? Select everything that applies.
+1. Choose which of the statements below correctly describe the code above? Select everything that applies.
  - `<?php` and `?>` indicates that the code above is a PHP script.
  - The above code produces the sound `Hello, world!`
  - The above code contains a statement that output `Hello, world!`.
@@ -113,7 +113,7 @@ echoo Hello, world!
 
  /// type=MS, answer=[2,5]
 
- 1. Executing the above code results in
+1. Executing the above code results in
  - `Hello, world!`
  - `A syntax error`
  - Nothing happens
@@ -122,12 +122,12 @@ echoo Hello, world!
 
  /// type=MS, answer=[3]
 
- 1. On which line does the syntax error occur?
-- 0
-- 1
-- 2
-- 3
-- 4
+1. On which line does the syntax error occur?
+ - 0
+ - 1
+ - 2
+ - 3
+ - 4
 
 /// type=CR, answer=[tests/HelloWorld/HelloWorldCorrectHelloWorldphp]
 ```php
@@ -140,23 +140,23 @@ echoo Hello, world!
 /// type=MS, answer=[1,2,3,5]
 
 1. Which of the following is a cause of encountering an error in programming?
-- No semi-colon the the end of every statement.
-- The double quotation `" "` does not come in pairs
-- There is no string literal after `echo` function.
-- Order of statement is function, string literal, semi-colon.
-- The statement does NOT come in between `<?php` and `?>`
+ - No semi-colon the the end of every statement.
+ - The double quotation `" "` does not come in pairs
+ - There is no string literal after `echo` function.
+ - Order of statement is function, string literal, semi-colon.
+ - The statement does NOT come in between `<?php` and `?>`
 
 /// type=MC, answer=[4] 
 
 1. Evaluate each of these statements in the code validator. Identify which of the following statements 
    correctly displays `Hello, world!`.
-- echo "Hello, world!;
-- echo "Hello, world!"
-- echo  Hello, world!";
-- echo "Hello, world!";
-- echo Hello, world;
-- "Hello, World!";
-- Hello, World!
+ - echo "Hello, world!;
+ - echo "Hello, world!"
+ - echo  Hello, world!";
+ - echo "Hello, world!";
+ - echo Hello, world;
+ - "Hello, World!";
+ - Hello, World!
 
 #Part 3. Programming
 Instruction: Write a code that successfully executes and outputs the following strings.
