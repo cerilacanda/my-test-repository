@@ -14,7 +14,7 @@ Reference the code below to answer question numbers 1 - 10
  - Opening delimiter of a code.
  - Closing delimiter of a code.
 
- /// type=MS, answer=[2,5] 
+/// type=MS, answer=[2,5] 
 
 1. The `?>` indicates which of the following?
  - The beginning of a program
@@ -23,7 +23,7 @@ Reference the code below to answer question numbers 1 - 10
  - Opening delimiter of a code.
  - Closing delimiter of a code.
 
- /// type=MC, answer=[4] 
+/// type=MC, answer=[4] 
 
 1. `Line 2` of the code above is a
  - Command
@@ -32,7 +32,7 @@ Reference the code below to answer question numbers 1 - 10
  - Statement
  - String
 
- /// type=MS, answer=[1,3,4,5] 
+/// type=MS, answer=[1,3,4,5] 
 
 1. Which of the following is TRUE about a statement in PHP?
  - A statement is a command given to the computer.
@@ -41,7 +41,7 @@ Reference the code below to answer question numbers 1 - 10
  - A statement is bound by the syntax rules in PHP.
  - It is created to produce a meaningful action.
 
- /// type=MS, answer=[3,5]
+/// type=MS, answer=[3,5]
 
 1. Which of the following is TRUE when using an `echo`? 
  - It resets the value of a string.
@@ -50,7 +50,7 @@ Reference the code below to answer question numbers 1 - 10
  - Marks the end of the string.
  - It outputs, one or more strings.
 
- /// type=MC, answer=[2]
+/// type=MC, answer=[2]
 
 1. In the program above, "Hello, world!" is a
  - Function
@@ -59,7 +59,7 @@ Reference the code below to answer question numbers 1 - 10
  - Statement
  - Delimiter
 
- /// type=MS, answer=[2,3,4]
+/// type=MS, answer=[2,3,4]
 
 1. Which of the following is TRUE about string literal?
  - It is a sequence of whole numbers. 
@@ -68,7 +68,7 @@ Reference the code below to answer question numbers 1 - 10
  - Strings are enclosed by double quotes `" "`
  - Strings are numerical values.
 
- /// type=MC, answer=[4] 
+/// type=MC, answer=[4] 
 
 1. What is the function of semi-colon `;` in the statement above?
  - Identifies a string.
@@ -77,7 +77,7 @@ Reference the code below to answer question numbers 1 - 10
  - Terminates a single statement.
  - Starts a single statement.
 
- /// type=MC, answer=[3]
+/// type=MC, answer=[3]
 
 1. Click Run to execute the program. What is the output?
  - Some kind of error.
@@ -86,7 +86,7 @@ Reference the code below to answer question numbers 1 - 10
  - `<?php`
  - `Hello, world`
 
- /// type=MS, answer=[1,3,4]
+/// type=MS, answer=[1,3,4]
 
 1. Choose which of the statements below correctly describe the code above? Select everything that applies.
  - `<?php` and `?>` indicates that the code above is a PHP script.
@@ -111,7 +111,7 @@ echoo Hello, world!
  - There is no semi-colon `;`
  - There is no statement terminator.
 
- /// type=MS, answer=[2,5]
+/// type=MS, answer=[2,5]
 
 1. Executing the above code results in
  - `Hello, world!`
@@ -120,7 +120,7 @@ echoo Hello, world!
  - Display of a greeting.
  - An error message
 
- /// type=MS, answer=[3]
+/// type=MS, answer=[3]
 
 1. On which line does the syntax error occur?
  - 0
