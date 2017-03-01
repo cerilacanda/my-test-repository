@@ -167,7 +167,7 @@ Instruction: Write a code that successfully executes and outputs the following s
     //Write code here.
 ?>
 ```
-1. `Hello PHP`
+1. `Hello PHP, I am here!`
 
  /// type=CR, answer=[tests/HelloWorld/HelloWorldOutputEverythingAllRight.php]
 ```php
