@@ -1,0 +1,43 @@
+OBJECTIVES:
+ Create a variable in PHP
+ Recognize the main types of variables 
+ Name variables appropriately
+ Output the values of variables in your scripts
+ Perform basic operations on variables
+ Read variables from a script
+ Managing variables
+ Compare and logically test variables
+ Create and use variables 
+
+ 
+
+
+FACTS:
+
+Variables:
+	- a container that holds certain value
+	- holds a value of any type
+	- a container that’s used to store both numeric and non-numeric information. 
+	- no compile- or runtime type checking
+	- are loosely-typed
+	- is a named memory location that contains data and may be manipulated throughout the execution of the program. 
+	- variables can be declared and assigned values simultaneously
+	- is a container for holding information in the computer’s memory. 
+	- Common punctuation characters, such as commas, quotation marks, or periods, 
+		are not permitted in variable names; neither are spaces.
+	- an assignment operator (=) is use to assign a value to a variable.
+ NOTE: Good programming practice dictates that all variables should be declared prior to use, 
+		preferably with an accompanying comment. 
+
+Naming Rules:
+	- must preceeded/begin with a dollar sign($)
+	- The first character after the dollar sign must be a letter or an underscore 
+	- remaining characters in the name may be letters, numbers, or underscores without a fixed limit
+	- must be descriptive, make sure variable names describes the kind of information they contain
+	- use an appropriate length(variable names longer than 30 characters are somewhat impractical)
+	- Don't use spaces , whitespaces not allowed
+	- Don't use symbols -Except underscore (_)
+	- names are case sensitive
+
+Declaring and Initializing Variables:	
+	- When you declare a variable in PHP, it ’ s good practice to assign a value to it at the same time. 	
