@@ -41,3 +41,5 @@ Naming Rules:
 
 Declaring and Initializing Variables:	
 	- When you declare a variable in PHP, it ’ s good practice to assign a value to it at the same time. 	
+	
+	***Operators are symbols that tell the PHP processor to perform certain actions. For example, the addition (+) symbol is an operator that tells PHP to add two variables or values, while the greater-than (>) symbol is an operator that tells PHP to compare two values. 
