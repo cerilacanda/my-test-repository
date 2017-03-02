@@ -10,5 +10,6 @@
 1. A variable name cannot contain spaces. If the variable is more than one word, separate it with capitalization or with an underscore.
 1. Variable names must be descriptive, make sure that it properly describes the kind of information they contain.
 1. Variable names are case sensitive,it means $user_name and $userName are two different variables. 
+1. echo can be used to display the value of a variable to the screen.
 
 
