@@ -1,3 +1,9 @@
+Working with Variables
+Exploring Variables
+Understanding Variables
+
+
+
 OBJECTIVES:
  Create a variable in PHP
  Recognize the main types of variables 
