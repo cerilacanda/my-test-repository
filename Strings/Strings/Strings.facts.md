@@ -14,6 +14,6 @@
  
  1. Using double quote `""` inside double quoted string are not allowed (e.g.` "I "love" PHP!"`).
  
- 1. Whitespaces in between lines are ignored. 
+ 1. Whitespaces in between lines are ignored. e.g. `"I           love              PHP!"`
  
  1. String interpolation is the process of evaluating a string literal containing in one or more string variables, returning a result in which the string variables are replaced with their corresponding values.
