@@ -11,7 +11,7 @@ Reference the code below to answer questions 1-5.
 	echo "$message I am $personName.";
 ?>
 ```
-/// type=MS, answer=[1,2,4,5]
+ /// type=MS, answer=[1,2,4,5]
 
 1. Which of the following best describes strings?
 
@@ -26,7 +26,7 @@ Reference the code below to answer questions 1-5.
 - Strings inside double quotes`""` get expanded as it replaces the variables with their values.
 
 
-/// type=SS, answer=[4]
+ /// type=SS, answer=[4]
 
 2.Which of the following best describes `'Hello World!'` from `line 2` of the above code? 
 
@@ -41,7 +41,7 @@ Reference the code below to answer questions 1-5.
 - assignment operator
 
 
-/// type=SS, answer=[3]
+ /// type=SS, answer=[3]
 
 3.Which of the following best describes `$personName` from `line 3` of the above code? 
 
@@ -56,7 +56,7 @@ Reference the code below to answer questions 1-5.
 - assignment operator
 
 
-/// type=MS, answer=[1,3,4,5]
+ /// type=MS, answer=[1,3,4,5]
 
 4. Which of the following statements correctly describes `line 4` of the above code?
 
@@ -71,7 +71,7 @@ Reference the code below to answer questions 1-5.
 - The variables were evaluated because double quotes `" "` were used to enclose the string.
 
 
-/// type=SS, answer=[4]
+ /// type=SS, answer=[4]
 
 5. What is the output of the above code when executed?
 
@@ -94,7 +94,7 @@ Reference the code below to answer question numbers 6-8.
 	echo '$message I am $personName.';
 ?>
 ```
-/// type=SS, answer=[3]
+ /// type=SS, answer=[3]
 
 6. What is the output of the above code when executed?
 
@@ -109,7 +109,7 @@ Reference the code below to answer question numbers 6-8.
 - Hello World! I am `$personName`.
 
 
-/// type=MS, answer[1,2,5]
+ /// type=MS, answer[1,2,5]
 
 7. Which of the following best describes the use of single quotes`''`?
 
@@ -124,7 +124,7 @@ Reference the code below to answer question numbers 6-8.
 - Strings surrounded by single quotes`''` return exactly the value of what was inside the quotes.
 
 
-/// type=MS, answer=[3,5]
+ /// type=MS, answer=[3,5]
 
 8. Which of the following statements correctly describes `line 4` of the above code?
 
@@ -148,7 +148,7 @@ Reference the code below to answer question numbers 9-12.
 	echo $message." ".$personName."?";
 ?>
 ```
-/// type=SS, answer=[4]
+ /// type=SS, answer=[4]
 
 9. What is the output of the above code when executed?
 
@@ -163,7 +163,7 @@ Reference the code below to answer question numbers 9-12.
 - Hello World! How are you.Diana Rose?
 
 
-/// type=SS, answer=[5]
+ /// type=SS, answer=[5]
 
 10. `.=` indicates which of the following?
 
