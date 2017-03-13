@@ -9,6 +9,16 @@ echo "I love $mypet .";
 echo 'Hello $myFriend .';
 echo "My friend {$myFriend}".' '."really loves ${myPet}s.";
 
+Which of the following statements are TRUE regarding strings?
+
+  A.  Strings inside single quotes(') will be treated literally
+
+  B.  Strings inside double quotes(") will be treated literally
+
+  C.  Strings inside double quotes(") will be interpreted and therefore may undergo changes
+
+  D.  Strings inside single quotes are not actually strings
+
 Which of the following best describes the characteristics of string data type?
 -A string can be stored in a variable
 -A string can be created using single quotes
@@ -68,7 +78,7 @@ String literals can contain any character literal including escape sequences.
 The equality operators are defined to compare the values of string objects as well as references. 
 The contents of a string object can be changed after the object is created.
 
-Experiment with the code validator determine which of the following are valid string literals?
+Experiment with the code evaluator determine which of the following are valid string literals?
 '*9subway\n' 
 "123$%^789"
 "whoop-de-do"  
