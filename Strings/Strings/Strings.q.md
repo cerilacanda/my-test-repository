@@ -12,6 +12,7 @@ Reference the code below to answer questions 1-5.
 ?>
 ```
 /// type=MS, answer=[1,2,4,5]
+
 1. Which of the following best describes strings?
 
 - Strings can be created using single`''`and double`""` quotes.
@@ -26,6 +27,7 @@ Reference the code below to answer questions 1-5.
 
 
 /// type=SS, answer=[4]
+
 2.Which of the following best describes `'Hello World!'` from `line 2` of the above code? 
 
 - statement
@@ -40,6 +42,7 @@ Reference the code below to answer questions 1-5.
 
 
 /// type=SS, answer=[3]
+
 3.Which of the following best describes `$personName` from `line 3` of the above code? 
 
 - statement
@@ -54,6 +57,7 @@ Reference the code below to answer questions 1-5.
 
 
 /// type=MS, answer=[1,3,4,5]
+
 4. Which of the following statements correctly describes `line 4` of the above code?
 
 - The variable `$message` evaluates to `Hello World!`.
@@ -68,6 +72,7 @@ Reference the code below to answer questions 1-5.
 
 
 /// type=SS, answer=[4]
+
 5. What is the output of the above code when executed?
 
 - a syntax error message.
@@ -90,6 +95,7 @@ Reference the code below to answer question numbers 6-8.
 ?>
 ```
 /// type=SS, answer=[3]
+
 6. What is the output of the above code when executed?
 
 - a syntax error message.
@@ -104,6 +110,7 @@ Reference the code below to answer question numbers 6-8.
 
 
 /// type=MS, answer[1,2,5]
+
 7. Which of the following best describes the use of single quotes`''`?
 
 - Single quotes`''` can be used to create strings. 
@@ -118,6 +125,7 @@ Reference the code below to answer question numbers 6-8.
 
 
 /// type=MS, answer=[3,5]
+
 8. Which of the following statements correctly describes `line 4` of the above code?
 
 - The variable `$message` evaluates to `Hello World!`.
@@ -141,6 +149,7 @@ Reference the code below to answer question numbers 9-12.
 ?>
 ```
 /// type=SS, answer=[4]
+
 9. What is the output of the above code when executed?
 
 - a syntax error message.
@@ -155,6 +164,7 @@ Reference the code below to answer question numbers 9-12.
 
 
 /// type=SS, answer=[5]
+
 10. `.=` indicates which of the following?
 
 - logical operator 
@@ -169,6 +179,7 @@ Reference the code below to answer question numbers 9-12.
 
 
 /// type=SS, answer=[3]
+
 11. Which of the following best describes string concatenation operator`.`?
 
 - It marks the end of the statement.
@@ -183,6 +194,7 @@ Reference the code below to answer question numbers 9-12.
 
 
 /// type=SS, answer=[4]
+
 12.`Line 4` of the above code indicates that `How are you` literals are ________ with the previous value of `$message` variable.
 
 - Parsed
@@ -205,6 +217,7 @@ Reference the code below to answer question numbers 9-12.
 ?>
 ```
 /// type=MS, answer=[1,2,3,5,6,8,9]
+
 1. Experiment with the code evaluator, identify all VALID string literals?
 
 - `'*9hello\nworld'` 
@@ -235,6 +248,7 @@ Reference the code below to answer question numbers 2-4
 ?>
 ```
 /// type=SS, answer=[2]
+
 2. What is the output of the above code when executed?
 
 - no output.
@@ -249,6 +263,7 @@ Reference the code below to answer question numbers 2-4
 
 
 /// type=SS, answer=[4]
+
 3. On which line number does the syntax error occurs?
 
 - 1
@@ -263,6 +278,7 @@ Reference the code below to answer question numbers 2-4
 
 
 /// type=MS, answer=[3,5]
+
 4.Which of the following are the causes of errors in the above code.
 
 - `ana` is enclosed with single quotes`''`.
