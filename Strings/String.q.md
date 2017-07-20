@@ -20,19 +20,7 @@ Reference the code below to answer questions 6-8.
 - `$scoring`
 
 
-///type=SS, answer=[3]
 
-7. What type of operator is `>`?
-
-- Logical
-
-- Arithmetic
-
-- Comparison
-
-- Assignment
-
-- Relational
 
 
 ///type=SS, answer=[1]

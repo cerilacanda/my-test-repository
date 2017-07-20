@@ -1,6 +1,5 @@
 #Strings
 
-
 ###Part 1: Sample Code Dissection
 
 Reference the code below to answer questions 1-5.
@@ -11,9 +10,10 @@ Reference the code below to answer questions 1-5.
 	echo "$message I am $personName.";
 ?>
 ```
- /// type=MS, answer=[1,2,4,5]
+/// type=MS, answer=[1,2,4,5]
 
 1. Which of the following best describes strings?
+
 
 - Strings can be created using single`''`and double`""` quotes.
 
@@ -26,9 +26,10 @@ Reference the code below to answer questions 1-5.
 - Strings inside double quotes`""` get expanded as it replaces the variables with their values.
 
 
- /// type=SS, answer=[4]
+/// type=SS, answer=[4]
 
-2.Which of the following best describes `'Hello World!'` from `line 2` of the above code? 
+2. Which of the following best describes `'Hello World!'` from `line 2` of the above code? 
+
 
 - statement
 
@@ -41,9 +42,10 @@ Reference the code below to answer questions 1-5.
 - assignment operator
 
 
- /// type=SS, answer=[3]
+/// type=SS, answer=[3]
 
-3.Which of the following best describes `$personName` from `line 3` of the above code? 
+3. Which of the following best describes `$personName` from `line 3` of the above code? 
+
 
 - statement
 
@@ -56,9 +58,10 @@ Reference the code below to answer questions 1-5.
 - assignment operator
 
 
- /// type=MS, answer=[1,3,4,5]
+/// type=MS, answer=[1,3,4,5]
 
 4. Which of the following statements correctly describes `line 4` of the above code?
+
 
 - The variable `$message` evaluates to `Hello World!`.
 
@@ -71,9 +74,10 @@ Reference the code below to answer questions 1-5.
 - The variables were evaluated because double quotes `" "` were used to enclose the string.
 
 
- /// type=SS, answer=[4]
+/// type=SS, answer=[4]
 
 5. What is the output of the above code when executed?
+
 
 - a syntax error message.
 
@@ -94,9 +98,10 @@ Reference the code below to answer question numbers 6-8.
 	echo '$message I am $personName.';
 ?>
 ```
- /// type=SS, answer=[3]
+/// type=SS, answer=[3]
 
 6. What is the output of the above code when executed?
+
 
 - a syntax error message.
 
@@ -109,7 +114,8 @@ Reference the code below to answer question numbers 6-8.
 - Hello World! I am `$personName`.
 
 
- /// type=MS, answer[1,2,5]
+/// type=MS, answer[1,2,5]
+
 
 7. Which of the following best describes the use of single quotes`''`?
 
@@ -124,9 +130,10 @@ Reference the code below to answer question numbers 6-8.
 - Strings surrounded by single quotes`''` return exactly the value of what was inside the quotes.
 
 
- /// type=MS, answer=[3,5]
+/// type=MS, answer=[3,5]
 
 8. Which of the following statements correctly describes `line 4` of the above code?
+
 
 - The variable `$message` evaluates to `Hello World!`.
 
@@ -195,7 +202,7 @@ Reference the code below to answer question numbers 9-12.
 
 /// type=SS, answer=[4]
 
-12.`Line 4` of the above code indicates that `How are you` literals are ________ with the previous value of `$message` variable.
+12. `Line 4` of the above code indicates that `How are you` literals are ________ with the previous value of `$message` variable.
 
 - Parsed
 
@@ -279,7 +286,7 @@ Reference the code below to answer question numbers 2-4
 
 /// type=MS, answer=[3,5]
 
-4.Which of the following are the causes of errors in the above code.
+4. Which of the following are the causes of errors in the above code.
 
 - `ana` is enclosed with single quotes`''`.
 
