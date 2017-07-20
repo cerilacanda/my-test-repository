@@ -1,3 +1,186 @@
+Reference the code below to answer questions 6-8.
+
+```php
+<?php
+   $firstQuizScore = 63;
+   $secondQuizScore = 30;
+   $scoring = ($firstQuizScore > $secondQuizScore);
+   echo $scoring;
+?>
+```
+6. Execute the program. What is the output?
+- `true`
+
+- `false`
+
+- `1`
+
+- `0`
+
+- `$scoring`
+
+
+///type=SS, answer=[3]
+
+7. What type of operator is `>`?
+
+- Logical
+
+- Arithmetic
+
+- Comparison
+
+- Assignment
+
+- Relational
+
+
+///type=SS, answer=[1]
+
+8. Which of the following is the functionality of `>` operator?
+
+- Returns true if `$firstQuizScore` is greater than `$secondQuizScore`.
+
+- Returns true if `$secondQuizScore` is greater than `$firstQuizScore`.
+
+- Returns true if `$firstQuizScore` is less than `$secondQuizScore`.
+
+- Returns true if `$secondQuizScore` is less than `$firstQuizScore`.
+
+- Returns true if `$firstQuizScore` is greater than or equal to `$secondQuizScore`.
+
+
+///type=MS, answer=[1,3]
+
+9. Which of the following are the results of `$firstQuizScore > $secondQuizScore`?
+
+- `true`
+
+-`false`
+
+-`1`
+
+-`0`
+
+- empty
+
+
+### Part 2. Knowledge Assessment
+
+///type=MS, answer=[1,2,3]
+
+1. Which of the following is true about booleans?
+
+- They are the simplest data type.
+
+- They express a truth value.
+
+- Their value can only be `TRUE` or `FALSE` and they are case-insensitive.
+
+- They are strings.
+
+- They are decimal point numbers.
+
+
+///type=MS, answer=[1,3]
+
+2. Which of the following is a valid boolean value?
+
+- `TRUE`
+
+- `'True'`
+
+- `False`
+
+- `'FALSE'`
+
+- `NULL`
+
+
+### Part 3. Testing
+
+`Echo` the value of the variable in the code evaluator to identify its truth value. 
+Write `TRUE` if the truth value is true, `FALSE` otherwise.
+
+///type=CR
+```php
+<?php
+ 
+
+?>
+```
+///type=TI, answer=[TRUE]
+
+1. `$passScience = true;`
+
+
+///type=TI, answer=[FALSE]
+
+2. `$passMath = false;`
+
+
+///type=TI, answer=[FALSE]
+
+3. `$passEnglish = " ";`
+
+
+///type=TI, answer=[TRUE]
+
+4. `$passEnglish = True;`
+
+
+///type=TI, answer=[TRUE]
+
+5. `$passEnglish = TRUE;`
+
+///type=TI, answer=[FALSE]
+
+6. `$passScience = False;`
+
+///type=TI, answer=[FALSE]
+
+7. `$passEnglish = FALSE;`
+
+
+Write a program that assigns a floating point value `250.735` to variable `$deduction` and `1500.543` to variable `$salary` then compute their difference and assign the result to variable `$netPay`. Use `echo` to output `John's daily income is 1249.808`.
+
+
+- Strings are values that contain a combination of letters, numbers, special characters and arithmetic values.
+/// type=MS, answer=[3,4]
+
+8. Which of the following statements best describes line 4?
+
+- The variable `$message` evaluates to `Diana Rose`.
+
+- The above code will produce an error upon execution.
+
+- The above code will display `Hello World! I am Diana Rose.`.
+
+- The `echo` output the strings and the value of the variables interpolated.
+
+- The variables were not interpolated because double quotes `" "` were used to enclose the string.
+
+For string interpolation, use complex (curly) syntax `{}` to indicate where the variable name stops and the literal string begins. e.g. `echo "{$myString}s";`
+
+The curly braces are necessary to indicate where the variable name stops and the literal string begins. 
+//to indicate where the variable name stops and the literal string begins within double quotes..
+
+Appreciate the importance of using complex (curly) syntax`{}` for string interpolation.
+
+What is the data type of `$mathScore`?
+ +   
+ + - `NULL` because it has no value.
+ +  
+ + - `String` because its value is a text.
+ +
+ + - `Integer` because its value is a whole number.
+ +   
+ + - `Float` because its value has fractional part.
+ +   
+ + - `Boolean` because its value is either `true` or `false`.
+ 
+ 
+ 
 <?php
 $favoriteAnimal = "cat"; 
 echo "My favorite animals are ${favoriteAnimal}s"; 
