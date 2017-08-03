@@ -1,0 +1,44 @@
+Content Things to do:
+
+IN-PROGRESS:
+
+ -- PHP Introduction Module
+
+	>>> Lessons Approved and Merged to Master:
+		1. Displaying Strings with echo
+		2. Assigning and Displaying Variables
+		3. String Creation and Interpolation
+		4. Integer Data Type with Basic Arithmetic
+		5. Floating Point Numbers with Basic Arithmetic
+		6. Arithmetic with Multiple Variables
+		7. Boolean Data Type with Conditionals
+		8. Creating and Calling Functions
+
+	>>> Lessons Waiting for Team Reviews and Approval:
+		1. Calling Basic String Functions
+		2. Using Basic Math Functions
+		3. If-Elseif-Else Statements with Comparison Operators --merge to master -07/10/2017
+		4. The Switch Conditional Statements --merge
+		5. The For Loop Statements with Unary Operators --merge to master -08/01/17
+		6. The While Loop Statements with Unary Operators
+		7. The Do-While Loop Statements with Unary Operators
+		8. Creating and Calling User-Defined Functions with Parameters
+		9. Learning Other Built-in Functions by Accessing 'php.net/functions'
+		10. Creating and Accessing Array
+
+NOTE: The target lessons for the PHP Introduction Course Content are complete and still waiting for team reviews and approval to merge to the master branch.
+		
+BACKLOG:
+
+ -- A definition file for inline dictionary
+
+		>> Inline dictionary/definition specific to the course
+			=>> Create a separate definition file.
+	
+ -- A comprehensive wiki for creating a course
+ 
+		>> A workflow on how to create a course content.
+		
+ -- A course introduction
+ 
+		>> Create an introduction about the course
