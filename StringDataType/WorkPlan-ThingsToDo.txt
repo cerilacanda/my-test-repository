@@ -26,19 +26,3 @@ IN-PROGRESS:
 		9. Learning Other Built-in Functions by Accessing 'php.net/functions'
 		10. Creating and Accessing Array
 
-NOTE: The target lessons for the PHP Introduction Course Content are complete and still waiting for team reviews and approval to merge to the master branch.
-		
-BACKLOG:
-
- -- A definition file for inline dictionary
-
-		>> Inline dictionary/definition specific to the course
-			=>> Create a separate definition file.
-	
- -- A comprehensive wiki for creating a course
- 
-		>> A workflow on how to create a course content.
-		
- -- A course introduction
- 
-		>> Create an introduction about the course

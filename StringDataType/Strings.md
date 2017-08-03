@@ -3,7 +3,7 @@
 
 ### Part 1: Sample Code Dissection
 
-Reference the code below to answer questions 1-7.
+Refer to the code below to answer questions 1-7.
 ```php
 <?php
 	$message = 'Hello World!';

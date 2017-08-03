@@ -26,29 +26,5 @@ TOPICS:
 	
 	Operator Precedence (order of operations)
 	
-	Operators
-		- Logical - {AND &&, OR ||, NOT !}
-		- Bitwise - {|, &, ~}
-		- Combined assignment operator - {+=, -=, *=, /=}
-	    - Modulo operator - {%}
-		
-	Creating Nested Conditionals 
-	Escaping from Loops with the break Statement
-	Skipping Loop Iterations with the continue Statement
-	Creating Nested Loops 
 	
-	Mixing Decisions and Looping
-	
-	Foreach Loop
-	
-	Arrays
-	 - Associative
-	 - Multidimensional
-	
-	Functions 
-	 - Pass arguments by reference
-	 - Variable scoping
-	 - Decisions and Looping
-	 - Returns an array
-	 
 
