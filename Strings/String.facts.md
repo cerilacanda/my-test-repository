@@ -69,3 +69,6 @@ Simple string syntax allows you to use the value of a variable within a string b
 The type of structure in which varaibles are placed within curly braces inside a string is called complex string syntax.
 
 string interpolation (or variable interpolation, variable substitution, or variable expansion) is the process of evaluating a string literal containing one or more placeholders, yielding a result in which the placeholders are replaced with their corresponding values.
+
+How are &nbsp;&nbsp; you
+
